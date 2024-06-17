@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #44ffa8;
+    background-color: #80ebb9;
     color: rgb(255, 242, 201);
     padding: 10px 0;
 }
@@ -42,7 +42,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #ffeb3b;
+    color: #b10000;
 }
 
 main {
