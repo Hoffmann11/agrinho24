@@ -2,13 +2,13 @@ body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f7f7f7;
+    background-color: #e9e7e7;
     color: #333;
 }
 
 header {
-    background-color: #a5ffc9;
-    color: white;
+    background-color: #44ffa8;
+    color: rgb(255, 242, 201);
     padding: 10px 0;
 }
 
