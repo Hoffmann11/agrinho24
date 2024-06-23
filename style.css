@@ -19,14 +19,14 @@ header .container {
 }
 
 header h1 {
-    margin: 7;
+    margin: 0;
     font-size: 27px;
 }
 
 nav ul {
     list-style-type: none;
     padding: 0;
-    margin: 5;
+    margin: 0;
     display: flex;
 }
 
